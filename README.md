@@ -2,7 +2,11 @@
 
 An intelligent **AI-powered Recipe Chatbot** that helps users discover recipes, understand ingredients, and get cooking guidance through a simple conversational interface. Users can enter ingredients they have available or ask recipe-related questions, and the chatbot provides useful recipe suggestions and cooking assistance.
 
-Chatbot link:https://udify.app/chat/g515olKPuvKfcWS9
+## 🔗 Project Link
+
+AI Recipe Chef:https://udify.app/chat/g515olKPuvKfcWS9
+
+Platform used:Dify
 
 ## 📌 Overview
 
@@ -172,12 +176,6 @@ Response Displayed to User
 * 🛒 **Smart Shopping List** – Automatically create a shopping list for missing ingredients.
 * 🎤 **Voice Interaction** – Allow users to interact with the chatbot using voice commands.
 * ⭐ **Recipe Saving** – Allow users to save and manage their favorite recipes.
-
-## 🔗 Project Link
-
-AI Recipe Chef:https://udify.app/chat/g515olKPuvKfcWS9
-
-Platform used:Dify
 
 ## 📚 Conclusion
 
