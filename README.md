@@ -1,14 +1,14 @@
-# 🍳 AI Recipe Chatbot
+#  AI Recipe Chatbot
 
 An intelligent **AI-powered Recipe Chatbot** that helps users discover recipes, understand ingredients, and get cooking guidance through a simple conversational interface. Users can enter ingredients they have available or ask recipe-related questions, and the chatbot provides useful recipe suggestions and cooking assistance.
 
-## 🔗 Project Link
+##  Project Link
 
 AI Recipe Chef:https://udify.app/chat/g515olKPuvKfcWS9
 
 Platform used:Dify
 
-## 📌 Overview
+##  Overview
 
 The **AI Recipe Chatbot** is a conversational AI application designed to make cooking easier and more interactive. Instead of searching through multiple websites or recipe books, users can simply tell the chatbot what ingredients they have or what type of dish they want to prepare.
 
@@ -16,7 +16,7 @@ The chatbot analyzes the user's request and generates relevant recipe suggestion
 
 The project demonstrates how **Generative AI and Large Language Models (LLMs)** can be used to build practical conversational applications for everyday tasks.
 
-## 🎯 Objectives
+##  Objectives
 
 * To create an AI-powered assistant for recipe discovery.
 * To provide recipe suggestions based on available ingredients.
@@ -25,19 +25,19 @@ The project demonstrates how **Generative AI and Large Language Models (LLMs)** 
 * To provide an interactive and user-friendly chatbot experience.
 * To demonstrate the practical use of Generative AI in daily life.
 
-## ✨ Key Features
+##  Key Features
 
-* 🤖 **Conversational Recipe Assistant** – Interact with the chatbot using natural language.
-* 🥕 **Ingredient-Based Suggestions** – Enter available ingredients and receive suitable recipe ideas.
-* 🍲 **Recipe Generation** – Generate complete recipes based on user requirements.
-* 📝 **Step-by-Step Instructions** – Provides easy-to-follow cooking procedures.
-* 🔄 **Interactive Conversation** – Users can ask follow-up questions about the recipe.
-* 💡 **Cooking Tips** – Provides useful suggestions and preparation tips.
-* 🖥️ **Simple User Interface** – Easy-to-use interface for a smooth experience.
-* ⚡ **Fast AI Responses** – Generates recipe-related responses dynamically.
+*  **Conversational Recipe Assistant** – Interact with the chatbot using natural language.
+*  **Ingredient-Based Suggestions** – Enter available ingredients and receive suitable recipe ideas.
+*  **Recipe Generation** – Generate complete recipes based on user requirements.
+*  **Step-by-Step Instructions** – Provides easy-to-follow cooking procedures.
+*  **Interactive Conversation** – Users can ask follow-up questions about the recipe.
+*  **Cooking Tips** – Provides useful suggestions and preparation tips.
+*  **Simple User Interface** – Easy-to-use interface for a smooth experience.
+*  **Fast AI Responses** – Generates recipe-related responses dynamically.
 
  
-## 🍽️ Examples
+##  Examples
 
 ### Example 1 – Ingredient-Based Recipe
 
@@ -119,7 +119,7 @@ Users can interact with the chatbot using queries such as:
 * "Can I make this recipe without garlic?"
 
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 User Input
@@ -137,7 +137,7 @@ Ingredients + Cooking Steps + Tips
 Response Displayed to User
 ```
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **User Input**
    The user enters a recipe request or provides the ingredients available at home.
@@ -157,7 +157,7 @@ Response Displayed to User
 6. **Follow-Up Interaction**
    Users can continue the conversation and ask additional questions such as substitutions, cooking time, or preparation methods.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python** – Core programming language.
 * **Streamlit** – Used to create the interactive web interface.
@@ -166,18 +166,18 @@ Response Displayed to User
 * **PyTorch** – Deep learning framework used for model execution.
 * **Natural Language Processing (NLP)** – Used to process and understand user queries.
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-* 📷 **Image-Based Ingredient Detection** – Identify ingredients from uploaded images.
-* 🥗 **Personalized Recipes** – Recommend recipes based on user preferences.
-* 🌱 **Dietary Preferences** – Support vegetarian, vegan, diabetic-friendly, and allergy-aware recipes.
-* 🌍 **Multi-Language Support** – Provide recipes in multiple languages.
-* 📊 **Nutrition Information** – Display calories, protein, carbohydrates, and other nutritional values.
-* 🛒 **Smart Shopping List** – Automatically create a shopping list for missing ingredients.
-* 🎤 **Voice Interaction** – Allow users to interact with the chatbot using voice commands.
-* ⭐ **Recipe Saving** – Allow users to save and manage their favorite recipes.
+*  **Image-Based Ingredient Detection** – Identify ingredients from uploaded images.
+*  **Personalized Recipes** – Recommend recipes based on user preferences.
+*  **Dietary Preferences** – Support vegetarian, vegan, diabetic-friendly, and allergy-aware recipes.
+*  **Multi-Language Support** – Provide recipes in multiple languages.
+*  **Nutrition Information** – Display calories, protein, carbohydrates, and other nutritional values.
+*  **Smart Shopping List** – Automatically create a shopping list for missing ingredients.
+*  **Voice Interaction** – Allow users to interact with the chatbot using voice commands.
+*  **Recipe Saving** – Allow users to save and manage their favorite recipes.
 
-## 📚 Conclusion
+##  Conclusion
 
 The **AI Recipe Chatbot** demonstrates how Generative AI can be applied to create a practical and user-friendly cooking assistant. By combining conversational AI with a simple interface, the application helps users discover recipes, make use of available ingredients, and receive step-by-step cooking guidance.
 
